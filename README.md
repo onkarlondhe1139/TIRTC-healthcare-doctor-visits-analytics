@@ -186,7 +186,7 @@ Exploratory Data Analysis was performed to understand the distribution and relat
 
 ## 1. Doctor Visit Distribution
 
-![Doctor Visit Distribution](outputs/01_visits_distribution.png)
+![Doctor Visit Distribution](https://raw.githubusercontent.com/onkarlondhe1139/TIRTC-healthcare-doctor-visits-analytics/main/Output/01_visits_distribution.png)
 
 The doctor-visit variable is examined to understand how frequently individuals reported visiting a doctor.
 
@@ -196,7 +196,7 @@ The distribution is **right-skewed**, with many observations having zero visits 
 
 ## 2. Age Distribution
 
-![Age Distribution](outputs/02_age_distribution.png)
+![Age Distribution](https://github.com/onkarlondhe1139/TIRTC-healthcare-doctor-visits-analytics/blob/main/Output/02_age_distribution.png)
 
 The age distribution provides an overview of the population represented in the dataset and helps identify the range and concentration of observations.
 
@@ -204,7 +204,7 @@ The age distribution provides an overview of the population represented in the d
 
 ## 3. Doctor Visits by Gender
 
-![Doctor Visits by Gender](outputs/03_visits_by_gender.png)
+![Doctor Visits by Gender](https://github.com/onkarlondhe1139/TIRTC-healthcare-doctor-visits-analytics/blob/main/Output/03_visits_by_gender.png)
 
 Doctor-visit patterns are compared across gender groups to identify differences in the observed distribution and average utilization.
 
@@ -214,7 +214,7 @@ These differences represent dataset-level associations and should not be interpr
 
 ## 4. Reduced Activity vs Doctor Visits
 
-![Reduced Activity vs Visits](outputs/04_reduced_vs_visits.png)
+![Reduced Activity vs Visits](https://github.com/onkarlondhe1139/TIRTC-healthcare-doctor-visits-analytics/blob/main/Output/04_reduced_vs_visits.png)
 
 This analysis examines the relationship between the number of days in which normal activities were reduced due to health problems and doctor visits.
 
@@ -224,7 +224,7 @@ Among the numerical variables analyzed, `reduced` shows the strongest observed a
 
 ## 5. Illness vs Doctor Visits
 
-![Illness vs Visits](outputs/05_illness_vs_visits.png)
+![Illness vs Visits](https://github.com/onkarlondhe1139/TIRTC-healthcare-doctor-visits-analytics/blob/main/Output/05_illness_vs_visits.png)
 
 This visualization examines whether the number of reported illnesses is associated with the frequency of doctor visits.
 
@@ -234,7 +234,7 @@ The analysis indicates that `illness` is also meaningfully associated with docto
 
 ## 6. Numerical Correlation Analysis
 
-![Correlation Heatmap](outputs/06_correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/onkarlondhe1139/TIRTC-healthcare-doctor-visits-analytics/blob/main/Output/06_correlation_heatmap.png)
 
 The correlation heatmap provides an overview of relationships among numerical variables.
 
@@ -860,19 +860,6 @@ The machine-learning models are experimental analytical models developed for edu
 * Excel
 * Data Visualization
 * Exploratory Data Analysis
-
----
-
-# 🔗 Connect With Me
-
-**GitHub:**
-`https://github.com/YOUR_USERNAME`
-
-**LinkedIn:**
-`https://www.linkedin.com/in/YOUR_USERNAME/`
-
-**Email:**
-`YOUR_EMAIL@example.com`
 
 ---
 
