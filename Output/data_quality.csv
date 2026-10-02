@@ -1,0 +1,14 @@
+,dtype,missing,unique
+Unnamed: 0,int64,0,5190
+visits,int64,0,10
+gender,object,0,2
+age,float64,0,12
+income,float64,0,14
+illness,int64,0,6
+reduced,int64,0,15
+health,int64,0,13
+private,object,0,2
+freepoor,object,0,2
+freerepat,object,0,2
+nchronic,object,0,2
+lchronic,object,0,2

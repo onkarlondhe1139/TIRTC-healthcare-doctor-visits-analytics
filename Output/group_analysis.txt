@@ -1,0 +1,30 @@
+
+gender_mean_visits
+gender
+female    0.361954
+male      0.236334
+
+nchronic_mean_visits
+nchronic
+yes    0.345602
+no     0.272111
+
+lchronic_mean_visits
+lchronic
+yes    0.603306
+no     0.261941
+
+private_mean_visits
+private
+no     0.307400
+yes    0.294604
+
+freepoor_mean_visits
+freepoor
+no     0.308172
+yes    0.157658
+
+freerepat_mean_visits
+freerepat
+yes    0.466544
+no     0.257868
